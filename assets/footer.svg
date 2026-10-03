@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Vedanshi Prajapati, iOS Developer"><defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="I design. I build. I ship."><defs>
     <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#6D28D9"/>
       <stop offset="0.5" stop-color="#2A1065"/>
-      <stop offset="1" stop-color="#0B0716"/>
+      <stop offset="1" stop-color="#1B1042"/>
     </linearGradient>
     <pattern id="fgrid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
@@ -25,7 +25,7 @@
   <rect width="1200" height="3" fill="#A78BFA" fill-opacity="0.6"/>
   <rect class="fl" x="0" y="0" width="400" height="3" fill="url(#fshine)"/>
   <g class="ft">
-    <text x="600" y="52" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#FFFFFF" letter-spacing="0.5">Vedanshi Prajapati</text>
-    <text x="600" y="86" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#DDD6FE" letter-spacing="1">iOS DEVELOPER</text>
+    <text x="600" y="55" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">I design. I build. I ship.</text>
+    <text x="600" y="86" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" fill="#DDD6FE" letter-spacing="2">VEDANSHI PRAJAPATI</text>
   </g>
 </svg>
