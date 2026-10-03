@@ -12,11 +12,13 @@ I build iOS apps in Swift and SwiftUI.
 
 <img align="right" src="./assets/hands.svg" width="280" alt="Pixel art hands typing on a keyboard" />
 
-I'm Vedanshi, an iOS developer who builds native apps in **Swift and SwiftUI**.
-
-I won Apple's **WWDC'26 Swift Student Challenge**, and the app that won it is live on the App Store.
-
-I'm open to **iOS developer roles**. If you're building something in SwiftUI, I'd like to hear about it.
+<ul>
+  <li>I build <b>things people can actually use</b>.</li>
+  <li>Code, design, product — <b>usually somewhere in between</b>.</li>
+  <li>Currently exploring <b>Swift, SwiftUI &</b> and better ways to build.</li>
+  <li>Weakness: <b>“I could probably build that.”</b></li>
+  <li>Have an idea? I’ll probably build it.</li>
+</ul>
 
 <br clear="right" />
 
@@ -49,18 +51,6 @@ I'm open to **iOS developer roles**. If you're building something in SwiftUI, I'
   <a href="https://appstoreconnect.apple.com/"><img src="./assets/tech/appstoreconnect.svg" alt="App Store Connect" height="38" /></a>
   <a href="https://git-scm.com/"><img src="./assets/tech/git.svg" alt="Git" height="38" /></a>
   <a href="https://github.com/"><img src="./assets/tech/github.svg" alt="GitHub" height="38" /></a>
-</p>
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vedanshi-Prajapati&background=1B1330&border=6D28D9&stroke=6D28D9&ring=A78BFA&fire=A78BFA&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=C4B5FD&border_radius=5" height="150" alt="GitHub streak stats" />
-</p>
-
-<h2 align="center">Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedanshi-Prajapati&bg_color=1B1330&color=EDE9FE&line=A78BFA&point=DDD6FE&area=true&hide_border=true&radius=16" alt="GitHub activity graph" />
 </p>
 
 <h2 align="center">Commit Activity</h2>
