@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="96" viewBox="0 0 700 96" role="img" aria-label="I design. I build. I ship.">
+  <style>.bg{fill:#F5F3FF;stroke:#C4B5FD}.q{fill:#4C1D95}.m{fill:#8B5CF6}
+  @media (prefers-color-scheme: dark){.bg{fill:#1B1330;stroke:#6D28D9}.q{fill:#EDE9FE}.m{fill:#A78BFA}}</style>
+  <rect class="bg" x="1.5" y="1.5" width="697" height="93" rx="14" stroke-width="1.5"/>
+  <text class="q" x="350" y="57" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="0.5">I design<tspan class="m">.</tspan> I build<tspan class="m">.</tspan> I ship<tspan class="m">.</tspan></text>
+</svg>

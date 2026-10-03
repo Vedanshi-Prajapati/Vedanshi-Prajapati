@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="38" viewBox="0 0 100 38" role="img" aria-label="UIKit">
+  <style>
+    .pill{fill:#F5F3FF;stroke:#C4B5FD}.pt{fill:#4C1D95}.gl{fill:#6D28D9;color:#6D28D9}
+    @media (prefers-color-scheme: dark){.pill{fill:#1B1330;stroke:#6D28D9}.pt{fill:#EDE9FE}.gl{fill:#A78BFA;color:#A78BFA}}
+  </style>
+  <rect class="pill" x="1.5" y="1.5" width="97" height="35" rx="17.5" stroke-width="1.5"/>
+  <g class="gl" transform="translate(15.5 10)"><g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" transform="scale(0.75)"><rect x="7" y="2.5" width="10" height="19" rx="2.5"/><path d="M11 18.5h2"/></g></g>
+  <text class="pt" x="41.5" y="24" textLength="41" lengthAdjust="spacingAndGlyphs" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="600">UIKit</text>
+</svg>

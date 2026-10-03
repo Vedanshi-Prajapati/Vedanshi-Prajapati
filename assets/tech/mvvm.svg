@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="38" viewBox="0 0 92 38" role="img" aria-label="MVVM">
+  <style>
+    .pill{fill:#F5F3FF;stroke:#C4B5FD}.pt{fill:#4C1D95}.gl{fill:#6D28D9;color:#6D28D9}
+    @media (prefers-color-scheme: dark){.pill{fill:#1B1330;stroke:#6D28D9}.pt{fill:#EDE9FE}.gl{fill:#A78BFA;color:#A78BFA}}
+  </style>
+  <rect class="pill" x="1.5" y="1.5" width="89" height="35" rx="17.5" stroke-width="1.5"/>
+  <g class="gl" transform="translate(15.5 10)"><g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" transform="scale(0.75)"><circle cx="5" cy="12" r="2.5"/><circle cx="12" cy="12" r="2.5"/><circle cx="19" cy="12" r="2.5"/><path d="M7.5 12h2M14.5 12h2"/></g></g>
+  <text class="pt" x="41.5" y="24" textLength="33" lengthAdjust="spacingAndGlyphs" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="600">MVVM</text>
+</svg>

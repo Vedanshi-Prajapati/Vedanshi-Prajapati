@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Vedanshi Prajapati, iOS Developer"><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0716"/>
+      <stop offset="0.5" stop-color="#2A1065"/>
+      <stop offset="1" stop-color="#6D28D9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.45" r="0.55">
+      <stop offset="0" stop-color="#C4B5FD" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#C4B5FD" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="nameClip">
+      <text x="600" y="120" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1">Vedanshi Prajapati</text>
+    </clipPath>
+  </defs>
+  <style>
+    .ring { fill:none; stroke:#DDD6FE; stroke-width:1.2; transform-box:fill-box; transform-origin:center; animation:pulse 6s ease-out infinite; opacity:0; }
+    .r2 { animation-delay:2s; }
+    .r3 { animation-delay:4s; }
+    @keyframes pulse { 0% { transform:scale(0.25); opacity:0.5; } 100% { transform:scale(1.6); opacity:0; } }
+    .pt { fill:#DDD6FE; opacity:0; animation-name:floatup; animation-iteration-count:infinite; animation-timing-function:ease-in-out; }
+    @keyframes floatup { 0% { transform:translateY(0); opacity:0; } 20% { opacity:0.7; } 100% { transform:translateY(-120px); opacity:0; } }
+    .rise { animation:rise 1s cubic-bezier(.2,.7,.2,1) both; }
+    .d1 { animation-delay:0.2s; } .d2 { animation-delay:0.6s; } .d3 { animation-delay:1.0s; }
+    @keyframes rise { from { opacity:0; transform:translateY(16px); } to { opacity:1; transform:translateY(0); } }
+    .line { transform-box:fill-box; transform-origin:center; animation:grow 1s ease-out 0.8s both, breathe 3.5s ease-in-out 2s infinite; }
+    @keyframes grow { from { transform:scaleX(0); opacity:0; } to { transform:scaleX(1); opacity:1; } }
+    @keyframes breathe { 0%,100% { transform:scaleX(1); opacity:1; } 50% { transform:scaleX(1.8); opacity:0.7; } }
+    .sweep { animation:sweep 5s ease-in-out 1.6s infinite; }
+    @keyframes sweep { 0% { transform:translateX(-320px); } 55%,100% { transform:translateX(1200px); } }
+    .glow { animation:glow 7s ease-in-out infinite; }
+    @keyframes glow { 0%,100% { opacity:0.7; } 50% { opacity:1; } }
+    @media (prefers-reduced-motion: reduce) { * { animation:none !important; } .ring,.pt { opacity:0; } }
+  </style>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#grid)"/>
+  <rect class="glow" width="1200" height="280" fill="url(#glow)"/>
+  <circle class="ring" cx="600" cy="140" r="170"/>
+  <circle class="ring r2" cx="600" cy="140" r="170"/>
+  <circle class="ring r3" cx="600" cy="140" r="170"/>
+  <circle class="pt" cx="703" cy="169" r="3" style="animation-duration:6.4s;animation-delay:3.9s"/>
+  <circle class="pt" cx="1137" cy="162" r="2.5" style="animation-duration:10.5s;animation-delay:3.5s"/>
+  <circle class="pt" cx="479" cy="154" r="1.5" style="animation-duration:6.3s;animation-delay:2.6s"/>
+  <circle class="pt" cx="225" cy="220" r="3" style="animation-duration:8.8s;animation-delay:0.4s"/>
+  <circle class="pt" cx="497" cy="230" r="1.5" style="animation-duration:8.0s;animation-delay:3.5s"/>
+  <circle class="pt" cx="492" cy="155" r="2" style="animation-duration:6.7s;animation-delay:1.7s"/>
+  <circle class="pt" cx="281" cy="223" r="2.5" style="animation-duration:9.4s;animation-delay:3.4s"/>
+  <circle class="pt" cx="251" cy="224" r="2" style="animation-duration:8.7s;animation-delay:2.2s"/>
+  <circle class="pt" cx="168" cy="222" r="1.5" style="animation-duration:8.5s;animation-delay:3.7s"/>
+  <circle class="pt" cx="1128" cy="204" r="2.5" style="animation-duration:10.6s;animation-delay:2.8s"/>
+  <circle class="pt" cx="780" cy="188" r="2" style="animation-duration:9.5s;animation-delay:4.8s"/>
+  <circle class="pt" cx="539" cy="160" r="2.5" style="animation-duration:10.4s;animation-delay:3.2s"/>
+  <circle class="pt" cx="959" cy="186" r="1.5" style="animation-duration:8.1s;animation-delay:0.7s"/>
+  <circle class="pt" cx="740" cy="169" r="3" style="animation-duration:10.8s;animation-delay:2.5s"/>
+  <text class="rise d1" x="600" y="120" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#FFFFFF" letter-spacing="-1">Vedanshi Prajapati</text>
+  <g clip-path="url(#nameClip)"><rect class="sweep" x="0" y="60" width="300" height="80" fill="url(#shine)"/></g>
+  <text class="rise d2" x="600" y="165" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="500" fill="#DDD6FE" letter-spacing="0.5">iOS Developer</text>
+  <rect class="line" x="572" y="189" width="56" height="3" rx="1.5" fill="#A78BFA"/>
+  <text class="rise d3" x="600" y="228" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#C4B5FD">Apple WWDC'26 Swift Student Challenge Winner</text>
+</svg>
