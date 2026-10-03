@@ -25,7 +25,9 @@ I build iOS apps in Swift and SwiftUI.
 <h2 align="center">Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/Vedanshi-Prajapati"><img src="./assets/github.svg" alt="GitHub" height="38" /></a>
+   <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="./assets/email.svg" alt="Email" height="38" />
+  </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vedanshi-p-244627324/"><img src="./assets/linkedin.svg" alt="LinkedIn" height="38" /></a>
 </p>
