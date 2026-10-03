@@ -53,15 +53,25 @@ I build iOS apps in Swift and SwiftUI.
   <a href="https://github.com/"><img src="./assets/tech/github.svg" alt="GitHub" height="38" /></a>
 </p>
 
-<h2 align="center">Commit Activity</h2>
+<h2 align="center">Contribution Activity</h2>
 
-<div align="center">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vedanshi-Prajapati/Vedanshi-Prajapati/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vedanshi-Prajapati/Vedanshi-Prajapati/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Vedanshi-Prajapati/Vedanshi-Prajapati/output/github-contribution-grid-snake.svg" width="100%">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Vedanshi-Prajapati/Vedanshi-Prajapati/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Vedanshi-Prajapati/Vedanshi-Prajapati/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Vedanshi-Prajapati/Vedanshi-Prajapati/output/pacman-contribution-graph.svg"
+      alt="Pac-Man contribution graph"
+      width="100%"
+    />
   </picture>
-</div>
+</p>
 
 <h2 align="center">Philosophy</h2>
 
