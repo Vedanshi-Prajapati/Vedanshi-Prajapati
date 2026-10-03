@@ -14,7 +14,7 @@ I build iOS apps in Swift and SwiftUI.
 
 <ul>
   <li>I build <b>things people can actually use</b>.</li>
-  <li>Code, design, product — <b>usually somewhere in between</b>.</li>
+  <li>Code, design, product - <b>usually somewhere in between</b>.</li>
   <li>Currently exploring <b>Swift, SwiftUI &</b> and better ways to build.</li>
   <li>Weakness: <b>“I could probably build that.”</b></li>
   <li>Have an idea? I’ll probably build it.</li>
